@@ -1,0 +1,31 @@
+[
+    {
+        "DesignationId":"1",
+        "DesignationName": "CEO"
+    },
+    {
+        "DesignationId":"2",
+        "DesignationName": "CTO"
+    },
+    {
+        "DesignationId":"3",
+        "DesignationName": "VP"
+    },
+    {
+        "DesignationId":"4",
+        "DesignationName": "AVP"
+    },
+    {
+        "DesignationId":"5",
+        "DesignationName": "Sr. Manager"
+    },
+    {
+        "DesignationId":"6",
+        "DesignationName": "Manager"
+    },
+    {
+        "DesignationId":"7",
+        "DesignationName": "SSE"
+    }
+
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "DepartmentId":"1",
+        "DepartmentName":"Accounting",
+        "DepartmentCode": "Accounting"
+    },
+    {
+        "DepartmentId":"2",
+        "DepartmentName":"IT",
+        "DepartmentCode": "IT"
+    },
+    {
+        "DepartmentId":"3",
+        "DepartmentName":"IT",
+        "DepartmentCode": "IT-FAS"
+    },
+    {
+        "DepartmentId":"4",
+        "DepartmentName":"Accounting",
+        "DepartmentCode": "FAS"
+    }
+]
